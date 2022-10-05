@@ -1,6 +1,6 @@
 # My React Mastery ⚛️
 
-List of personal and course projects done throughout my learning.
+List of side projects done throughout my learning 🌱
 
 ## Personal Projects
 - 💙[My blog](https://pedroreis.dev) | Under construction 🚧
